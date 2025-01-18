@@ -125,6 +125,8 @@ To make the insights pop, we recommend the following visuals:
    - Use `plt.bar` for bar charts.
    - Use `sns.heatmap` for heatmaps.
    - Use `wordcloud.WordCloud` for word clouds.
+  
+     ![Image](https://github.com/user-attachments/assets/43d73b3a-21c6-43e7-8010-c95838f98632)
 
 ---
 
