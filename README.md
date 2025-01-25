@@ -130,6 +130,10 @@ To make the insights pop, we recommend the following visuals:
 
 ---
 
+![Image](https://github.com/user-attachments/assets/fae5090c-3e5d-4d2c-8e67-1423287bccc8)
+
+---
+
 ## What’s Next? 🚀
 
 - **Enhance Insights**: Add viewer ratings or reviews.
